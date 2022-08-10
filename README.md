@@ -1,2 +1,2 @@
 # Github Practice
-Never used Github before. Well, let's see what it does!
+Using Github for the first time. Well, let's see what it does!
